@@ -1,5 +1,6 @@
 # DeepLearning_scratch
-All the Projects in this repository are implemented using numpy,matplotlib and python without using deep-learning frameworks
+All the Projects in this repository are implemented using numpy,matplotlib and python without using deep-learning frameworks.
+These projects were implemented by me as an exercise for the Online course I"ve Taken on Deep-Learning.
 
 ### Optimization_algorithms  : contains various optimizations of Gradient Descent like Mini Batch Gradient Descent,GD with momentum,RMS prop,ADAM
 
